@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Junaid</h1>
-<h3 align="center">A passionate Android Engineer @Callsign</h3>
+<h3 align="center">Android Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junyddev&label=Profile%20views&color=0e75b6&style=flat" alt="junyddev" /> </p>
 
